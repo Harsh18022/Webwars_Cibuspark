@@ -2,7 +2,7 @@
 <p>Project Title:-</p> <h1>Cibuspark</h1>
 <p>Team Name :-</p> <h1>Cibuspark</h1>
 <p>Team Member deatils:-</p> 
-<ul><p>Team Leader</p> :- Somya Mishra </ul>
+<ul> Team Leader :- Somya Mishra </ul>
 <ul>Harsh Kumar Sharma</ul>
 <ul>Naina Sharma </ul>
 <ul>Samarth Singhal</ul>
