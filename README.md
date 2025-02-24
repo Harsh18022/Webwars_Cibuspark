@@ -6,7 +6,7 @@
 <ul>Harsh Kumar Sharma</ul>
 <ul>Naina Sharma </ul>
 <ul>Samarth Singhal</ul>
-<ul>Abhimanyu Rana</ul>
+<ul>Abhimanyu</ul>
 <p>Team Stack :-</p> <h1>MERN Stack</h1>
 <h1>Project Description: </h1>
 <p>Our platform bridges the gap between hotels and food processing units (FPUs) to convert excess food into renewable energy. By streamlining food waste collection, transportation, and processing, we enable businesses to adopt sustainable practices effortlessly. Our solution minimizes waste, reduces environmental impact, and promotes a greener, more energy-efficient future.</p>
